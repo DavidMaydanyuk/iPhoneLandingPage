@@ -5,4 +5,5 @@ We link to Google Fonts to use the "Inter" font for our text. This font gives th
 There are also links to external CSS files (normalize.css and style.css) for styling the webpage. The normalize.css file helps ensure consistent styling across different browsers.
 The <title> tag sets the title of the webpage, which appears on the browser tab.
 Moving on to the <body> section, we have the actual content of the webpage. 
+
 The <header> contains the navigation menu and the logo, while the <main> section will hold the main content, and the <footer> section will have footer information like copyright details and contact information.
